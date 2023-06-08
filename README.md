@@ -6,7 +6,11 @@ Problem Statement: An online retail store has hired us as a consultant to review
 Tools used- Power BI, MS Office
 
 Tasks:
+
 Task 1 - Framing the Business Scenario
+
 Task 2 - Choosing the Right Visuals
+
 Task 3 - Creating Effective Visuals
+
 Task 4 - Communicating Insights and Analysis
